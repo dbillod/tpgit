@@ -1,7 +1,7 @@
 #include "PointersManipulation.h"
 
-void Increment1(int n){
-	n++;
+void Increment1(int p){
+	p++;
 }
 
 void Increment2(int* n){
