@@ -70,6 +70,7 @@
     <ClInclude Include="A.h" />
     <ClInclude Include="ArithmeticMethods.h" />
     <ClInclude Include="B.h" />
+    <ClInclude Include="Person.h" />
     <ClInclude Include="PointersManipulation.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
