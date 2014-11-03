@@ -9,6 +9,7 @@ public:
 	double getIm(void);
 	void setReal(double);
 	void setIm(double);
+	double getModulus(void);
 
 private:
 	double _real;

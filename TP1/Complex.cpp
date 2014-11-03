@@ -42,3 +42,7 @@ void Complex::setIm(double im)
 	_im = im;
 }
 
+double Complex::getModulus(void)
+{
+	return ( (_im)*(_im) + (_real)*(_real) );
+}
